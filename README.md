@@ -1,14 +1,14 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Navi%20Sooraj&fontSize=55&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=48&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Navi%20Sooraj&fontSize=55&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=48&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div data-importer="border">
+<div data-importer="border" align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=footer&reversal=false&text=Full-Stack%20Developer%20%7C%20Software%20Development%20%7C%20AI%20Enthusiast&fontSize=17&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
@@ -30,7 +30,22 @@
 
 ###
 
-<p data-importer="text" align="left">```bash<br>> whoami<br><br>Name:        Navi Sooraj<br>Location:    Kerala, India<br>Focus:       Full-Stack Development • AI Automation <br><br>Projects:<br>  ├── ArcAds<br>  └── LabFinder<br><br>Currently Learning:<br>  ├── Software Development applications<br>  ├── AI Agents<br>  └── Scalable Backend Systems</p>
+```cmd
+> whoami
+
+Name:        Navi Sooraj
+Location:    Kerala, India
+Focus:       Full-Stack Development • AI Automation 
+
+Projects:
+  ├── ArcAds
+  └── LabFinder
+
+Currently Learning:
+  ├── Software Development applications
+  ├── AI Agents
+  └── Scalable Backend Systems
+```
 
 ###
 
@@ -52,7 +67,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###

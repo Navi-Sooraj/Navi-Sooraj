@@ -66,7 +66,7 @@
   ###
   
   <div data-importer="border">
-    <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=0d1b3e,0a2a6e,0d47a1,1565c0,2e3f8f"  />
+    <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&stroke=-&desc=Navi%20Sooraj%20%C2%A9%202026&descSize=8&descAlign=50&descAlignY=55&fontColor=FFFFFF&color=gradient&customColorList=0d1b3e,0a2a6e,0d47a1,1565c0,2e3f8f"  />
   </div>
   
   ###

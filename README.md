@@ -1,7 +1,7 @@
   <br clear="both">
   
   <div data-importer="border">
-    <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Navi%20Sooraj&fontSize=55&fontAlign=50&fontAlignY=80&fontColor=ffffff&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=48&descAlignY=50&textBg=false&color=gradient&customColorList="  />
+    <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Navi%20Sooraj&fontSize=55&fontAlign=50&fontAlignY=80&fontColor=ffffff&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=48&descAlignY=50&textBg=false&color=gradient&customColorList=111111"  />
   </div>
   
   ###
@@ -66,7 +66,7 @@
   ###
   
   <div data-importer="border">
-    <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&stroke=-&desc=Navi%20Sooraj%20%C2%A9%202026&descSize=8&descAlign=50&descAlignY=55&fontColor=FFFFFF&color=gradient&customColorList"  />
+    <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=false&stroke=-&desc=Navi%20Sooraj%20%C2%A9%202026&descSize=8&descAlign=50&descAlignY=55&fontColor=FFFFFF&color=gradient&customColorList=111111"  />
   </div>
   
   ###
